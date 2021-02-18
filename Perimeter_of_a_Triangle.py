@@ -1,7 +1,7 @@
 ### calculates the perimeter of a triangle ###
 
-# DRIVER: Tianna Davis (U69901851)
-# NAVIGATOR: Peyton Krimmel (U85951028)
+# DRIVER: Tianna D. (me)
+# NAVIGATOR: P.K. 
 
 # gets user input
 print("Enter the 3 side lengths like so: \nx \ny \nz \n")
