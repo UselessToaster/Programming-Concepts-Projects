@@ -1,7 +1,7 @@
 ### calculates a discount based off of the ammount purchased ###
 
-#DRIVER: Tianna Davis (U69901851)
-#NAVIGATOR: Peyton Krimmel (U85951028)
+#DRIVER: Tianna D. (me)
+#NAVIGATOR: P.K
 
 
 quantity = int(input("How many packages did you purchase? \n"))
