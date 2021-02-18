@@ -1,7 +1,7 @@
 ### converts regular text into morse code ###
 
-#DRIVER: Tianna Davis (U69901851)
-#NAVIGATOR: Fares Ibrahim (U09773571)
+#DRIVER: Tianna. D (me)
+#NAVIGATOR: F.I
 
 #gets string to be interpreted
 user = input("Enter your string to be converted to Morse Code: ").upper()
